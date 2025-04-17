@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\ListenElement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:ListenElement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\ListenElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:ListenElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Liste.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:Liste.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Liste.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:Liste.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6C9C6D7-2F86-6592-66D3-B74BC91D11F5}|Versuch5.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T01:10:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListenElement.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\ListenElement.cpp",
+              "RelativeDocumentMoniker": "ListenElement.cpp",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\ListenElement.cpp",
+              "RelativeToolTip": "ListenElement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T23:58:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCwAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T23:58:00.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Liste.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Liste.cpp",
+              "RelativeDocumentMoniker": "Liste.cpp",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Liste.cpp",
+              "RelativeToolTip": "Liste.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T23:52:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T23:51:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListenElement.h",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\ListenElement.h",
+              "RelativeDocumentMoniker": "ListenElement.h",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\ListenElement.h",
+              "RelativeToolTip": "ListenElement.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T23:49:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Liste.h",
+              "DocumentMoniker": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Liste.h",
+              "RelativeDocumentMoniker": "Liste.h",
+              "ToolTip": "C:\\Users\\Ali Ata Can Gunduz\\Desktop\\Aachen\\Zweite semester\\Praktikum 1\\Aufgaben\\Versuch05\\Liste.h",
+              "RelativeToolTip": "Liste.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T23:49:09.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

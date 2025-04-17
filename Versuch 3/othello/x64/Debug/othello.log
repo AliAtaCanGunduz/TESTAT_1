@@ -1,0 +1,6 @@
+﻿  othello.cpp
+  othelloKI.cpp
+  test.cpp
+C:\Users\Ali Ata Can Gunduz\Desktop\Versuch 3\test.cpp(77,21): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'const bool' türü karışımı
+  Kod Üretiliyor...
+  othello.vcxproj -> C:\Users\Ali Ata Can Gunduz\Desktop\Versuch 3\x64\Debug\othello.exe
